@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Tony Mu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I write about big data, scalability, and distributed systems: where infrastructure meets elegance. Off the clock, I recharge with sci-fi, puzzles, and a good cup of tea"
+  bio    : "Scaling AI and big data systems: where infrastructure meets elegance."
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-linkedin"
