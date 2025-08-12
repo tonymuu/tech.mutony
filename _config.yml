@@ -61,7 +61,7 @@ author:
   bio    : "Scaling AI and big data systems: where infrastructure meets elegance."
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/tonymu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/tonymu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
